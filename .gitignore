@@ -1,0 +1,28 @@
+# IDEs
+.vscode
+.idea
+.trae
+
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Go
+backend/bin/
+backend/*.exe
+backend/*.exe~
+backend/*.dll
+backend/*.so
+backend/*.dylib
+backend/test
+backend/main
+
+# Environment variables
+.env
+backend/.env
+TerraPawApp/.env
+
+# OS
+.DS_Store
+Thumbs.db
